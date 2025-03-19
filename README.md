@@ -7,10 +7,14 @@
 - Crie um TAD para armazenar dados dos professores: nome, Código da disciplina.
 
 - Crie um Tipo Abstrato de Dados (TAD) que represente os números racionais e que contenha as seguintes funcionalidades de:
-(a) Criar racional;
-(b) Somar racionais;
-(c) Multiplicar racionais;
-(d) testar igualdade.
+  
+  (a) Criar racional;
+
+  (b) Somar racionais;
+
+  (c) Multiplicar racionais;
+
+  (d) testar igualdade.
 
 - Sabendo que uma conta bancária tem as operações de visualizar saldo, depositar, sacar e atualizar. Crie uma TAD para representar essas operações.
 
