@@ -34,4 +34,4 @@
 
 - Crie um TAD para representar uma fila de atendimento em um hospital. Deve conter nome do paciente, prioridade e horário de chegada.
 
-– Crie um TAD para representar um diário de anotações. Cada anotação deve conter a data, um título e o conteúdo da anotação.
+- Crie um TAD para representar um diário de anotações. Cada anotação deve conter a data, um título e o conteúdo da anotação.
