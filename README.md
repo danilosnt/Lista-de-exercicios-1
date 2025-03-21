@@ -1,4 +1,47 @@
-# Exercícios TAD
+public class Livro {
+    private String titulo;
+    private String editora;
+    private int anoPublicacao;
+
+    public Livro(String titulo, String editora, int anoPublicacao) {
+        this.titulo = titulo;
+        this.editora = editora;
+        this.anoPublicacao = anoPublicacao;
+    }
+
+    public String getTitulo() {
+        return titulo;
+    }
+
+    public void setTitulo(String titulo) {
+        this.titulo = titulo;
+    }
+
+    public String getEditora() {
+        return editora;
+    }
+
+    public void setEditora(String editora) {
+        this.editora = editora;
+    }
+
+    public int getAnoPublicacao() {
+        return anoPublicacao;
+    }
+
+    public void setAnoPublicacao(int anoPublicacao) {
+        this.anoPublicacao = anoPublicacao;
+    }
+
+    @Override
+    public String toString() {
+        return "Livro{" +
+                "titulo='" + titulo + '\'' +
+                ", editora='" + editora + '\'' +
+                ", anoPublicacao=" + anoPublicacao +
+                '}';
+    }
+}# Exercícios TAD
 
 - Crie um TAD para armazenar dados de livros: Título, editora, ano de publicação.
   
